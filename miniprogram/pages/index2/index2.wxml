@@ -1,0 +1,7 @@
+<view id="app">
+  <view id="breathing-light">
+    <view id="box">
+      <view id="green"></view>
+    </view>
+  </view>
+</view>
